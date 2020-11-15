@@ -18,4 +18,4 @@ States are represented as tuples of immediate obstacles on sides of the head of 
 
 Agent performance after 500 games: <br />
 
-[![ezgif-com-video-to-gif.gif](https://i.postimg.cc/SRLB36GR/ezgif-com-video-to-gif.gif)](https://postimg.cc/xNCpbbhV)
+[![ezgif-com-resize.gif](https://i.postimg.cc/8cTKFqhk/ezgif-com-resize.gif)](https://postimg.cc/PpFz9V30)
