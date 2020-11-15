@@ -17,4 +17,4 @@ States are represented as tuples of immediate obstacles on sides of the head of 
 ## Results
 
 Agent performance after 500 games:
-<video src="28 points.mov" width="320" height="200" controls preload></video>
+<video src="28 points .mov" width="320" height="200" controls preload></video>
