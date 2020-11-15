@@ -16,10 +16,9 @@ States are represented as tuples of immediate obstacles on sides of the head of 
 
 ## Results
 
-Agent performance during first game         Agent performance after 500 games: <br />
+Agent performance during first game &nbsp &nbsp &nbsp Agent performance after 500 games: <br />
 
-[![ezgif-com-gif-maker.gif](https://i.postimg.cc/R0XN5tXP/ezgif-com-gif-maker.gif)](https://postimg.cc/Y4LpQvcg) [![ezgif-com-resize.gif](https://i.postimg.cc/8cTKFqhk/ezgif-com-resize.gif)](https://postimg.cc/PpFz9V30)
+[![ezgif-com-gif-maker.gif](https://i.postimg.cc/R0XN5tXP/ezgif-com-gif-maker.gif)](https://postimg.cc/Y4LpQvcg) &nbsp &nbsp &nbsp &nbsp [![ezgif-com-resize.gif](https://i.postimg.cc/8cTKFqhk/ezgif-com-resize.gif)](https://postimg.cc/PpFz9V30)
 
-Agent performance after 500 games: 
 
 
