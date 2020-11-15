@@ -16,6 +16,10 @@ States are represented as tuples of immediate obstacles on sides of the head of 
 
 ## Results
 
+Agent performance during first game <br />
+
+[![ezgif-com-gif-maker.gif](https://i.postimg.cc/R0XN5tXP/ezgif-com-gif-maker.gif)](https://postimg.cc/Y4LpQvcg)
+
 Agent performance after 500 games: <br />
 
 [![ezgif-com-resize.gif](https://i.postimg.cc/8cTKFqhk/ezgif-com-resize.gif)](https://postimg.cc/PpFz9V30)
