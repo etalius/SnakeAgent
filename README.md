@@ -14,3 +14,7 @@ States are represented as tuples of immediate obstacles on sides of the head of 
 **agent.py** Agent class, updates the Q table as the game is played. <br />
 **q.csv** Learned policy after being trained on 500 games. 
 
+## Results
+
+Agent performance after 500 games:
+<video src="28 points.mov" width="320" height="200" controls preload></video>
