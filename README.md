@@ -9,7 +9,7 @@ States are represented as tuples of immediate obstacles on sides of the head of 
 
 ### Files
 
-**game.py** File to run the game played by the agent, initializes the policy the the policy stored in q.csv.<br />
+**game.py** File to run the game played by the agent, initializes the policy to the policy stored in q.csv.<br />
 **snake.py** Snake class, updates and tracks the location of the snake and apple. <br />
 **agent.py** Agent class, updates the Q table as the game is played. <br />
 **q.csv** Learned policy after being trained on 500 games. 
